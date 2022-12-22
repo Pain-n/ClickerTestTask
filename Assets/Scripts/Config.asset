@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa47100166c69dd4bac7a52898a7695b, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  _BuisnessList:
+  - _ProfitDelayInSeconds: 3
+    _BasePrice: 3
+    _BaseProfit: 3
+    _BuisnessUpgradeList:
+    - _Price: 50
+      _ProfitMultiplier: 50
+    - _Price: 400
+      _ProfitMultiplier: 100
+  - _ProfitDelayInSeconds: 6
+    _BasePrice: 40
+    _BaseProfit: 40
+    _BuisnessUpgradeList:
+    - _Price: 1200
+      _ProfitMultiplier: 100
+    - _Price: 4000
+      _ProfitMultiplier: 200
+  - _ProfitDelayInSeconds: 10
+    _BasePrice: 200
+    _BaseProfit: 200
+    _BuisnessUpgradeList:
+    - _Price: 6000
+      _ProfitMultiplier: 100
+    - _Price: 20000
+      _ProfitMultiplier: 150
+  - _ProfitDelayInSeconds: 17
+    _BasePrice: 1000
+    _BaseProfit: 1000
+    _BuisnessUpgradeList:
+    - _Price: 15000
+      _ProfitMultiplier: 100
+    - _Price: 50000
+      _ProfitMultiplier: 200
+  - _ProfitDelayInSeconds: 30
+    _BasePrice: 5000
+    _BaseProfit: 5000
+    _BuisnessUpgradeList:
+    - _Price: 100000
+      _ProfitMultiplier: 200
+    - _Price: 500000
+      _ProfitMultiplier: 400

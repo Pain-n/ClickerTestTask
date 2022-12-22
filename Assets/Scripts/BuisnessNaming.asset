@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10143a7b6f6b72a4e9582fb60c582b74, type: 3}
+  m_Name: BuisnessNaming
+  m_EditorClassIdentifier: 
+  _BuisnessNamingList:
+  - _BuisnessName: Buisness 1
+    _UpgradeNames:
+    - Upgrade 1.1
+    - Upgrade 1.2
+  - _BuisnessName: Buisness 2
+    _UpgradeNames:
+    - Upgrade 2.1
+    - Upgrade 2.2
+  - _BuisnessName: Buisness 3
+    _UpgradeNames:
+    - Upgrade 3.1
+    - Upgrade 3.2
+  - _BuisnessName: Buisness 4
+    _UpgradeNames:
+    - Upgrade 4.1
+    - Upgrade 4.2
+  - _BuisnessName: Buisness 5
+    _UpgradeNames:
+    - Upgrade 5.1
+    - Upgrade 5.2
