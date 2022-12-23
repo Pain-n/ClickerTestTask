@@ -379,9 +379,13 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/Buisness.cs"
 "Assets/Scripts/BuisnessNamingSO.cs"
 "Assets/Scripts/ConfigSO.cs"
+"Assets/Scripts/DataModel.cs"
 "Assets/Scripts/GlobalContext.cs"
+"Assets/Scripts/SaveLoadSystem.cs"
+"Assets/Scripts/UIBuisnessPanel.cs"
 -langversion:9.0
 
 /deterministic

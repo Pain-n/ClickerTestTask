@@ -56,9 +56,13 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\GlobalContext.cs" />
-    <Compile Include="Assets\Scripts\ConfigSO.cs" />
     <Compile Include="Assets\Scripts\BuisnessNamingSO.cs" />
+    <Compile Include="Assets\Scripts\Buisness.cs" />
+    <Compile Include="Assets\Scripts\UIBuisnessPanel.cs" />
+    <Compile Include="Assets\Scripts\ConfigSO.cs" />
+    <Compile Include="Assets\Scripts\SaveLoadSystem.cs" />
+    <Compile Include="Assets\Scripts\GlobalContext.cs" />
+    <Compile Include="Assets\Scripts\DataModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

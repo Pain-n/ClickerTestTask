@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Config
   m_EditorClassIdentifier: 
   _BuisnessList:
-  - _ProfitDelayInSeconds: 3
+  - _ID: 0
+    _ProfitDelayInSeconds: 3
     _BasePrice: 3
     _BaseProfit: 3
     _BuisnessUpgradeList:
@@ -21,7 +22,8 @@ MonoBehaviour:
       _ProfitMultiplier: 50
     - _Price: 400
       _ProfitMultiplier: 100
-  - _ProfitDelayInSeconds: 6
+  - _ID: 1
+    _ProfitDelayInSeconds: 6
     _BasePrice: 40
     _BaseProfit: 40
     _BuisnessUpgradeList:
@@ -29,7 +31,8 @@ MonoBehaviour:
       _ProfitMultiplier: 100
     - _Price: 4000
       _ProfitMultiplier: 200
-  - _ProfitDelayInSeconds: 10
+  - _ID: 2
+    _ProfitDelayInSeconds: 10
     _BasePrice: 200
     _BaseProfit: 200
     _BuisnessUpgradeList:
@@ -37,7 +40,8 @@ MonoBehaviour:
       _ProfitMultiplier: 100
     - _Price: 20000
       _ProfitMultiplier: 150
-  - _ProfitDelayInSeconds: 17
+  - _ID: 3
+    _ProfitDelayInSeconds: 17
     _BasePrice: 1000
     _BaseProfit: 1000
     _BuisnessUpgradeList:
@@ -45,7 +49,8 @@ MonoBehaviour:
       _ProfitMultiplier: 100
     - _Price: 50000
       _ProfitMultiplier: 200
-  - _ProfitDelayInSeconds: 30
+  - _ID: 4
+    _ProfitDelayInSeconds: 30
     _BasePrice: 5000
     _BaseProfit: 5000
     _BuisnessUpgradeList:

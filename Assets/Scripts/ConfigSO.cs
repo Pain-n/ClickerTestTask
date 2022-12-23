@@ -16,6 +16,8 @@ public class ConfigSO : ScriptableObject
 public class BuisnessModelForConfig 
 {
     [SerializeField]
+    int _ID;
+    [SerializeField]
     int _ProfitDelayInSeconds;
     [SerializeField]
     int _BasePrice;
@@ -24,6 +26,7 @@ public class BuisnessModelForConfig
     [SerializeField]
     List<BuisnessUpgrade> _BuisnessUpgradeList;
 
+    public int ID => _ID;
     public int ProfitDelayInSeconds => _ProfitDelayInSeconds;
     public int BasePrice => _BasePrice;
     public int BaseProfit => _BaseProfit;

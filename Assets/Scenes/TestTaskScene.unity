@@ -553,6 +553,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6f8c277e9497554fb6495d70644e71b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BalanceText: {fileID: 1260633791}
+  BuisnessUIContainer: {fileID: 934304220}
+  Config: {fileID: 11400000, guid: 93ccced54d0843644a8ce5ffec054ee8, type: 2}
+  BuisnessNaming: {fileID: 11400000, guid: c87fb4bc6ddda1d4aad8f5e2f84cfacd, type: 2}
 --- !u!1 &934304219
 GameObject:
   m_ObjectHideFlags: 0
